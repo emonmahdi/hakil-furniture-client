@@ -1,0 +1,163 @@
+[
+    { 
+        "categoryTitle":"Bed Room",
+        "category": "bed_room",
+        "img":"https://i.ibb.co/ggxHNtr/bed.png",
+        "items": [
+            { 
+                "name":"HAKIL Bed Spell-173",
+                "img": "https://i.ibb.co/hyrtxsH/Bed-Room-3.jpg",
+                "originalPrice": "112",
+                "location":"Barishal brance",
+                "resalePrice": "80",
+                "yearsUse": "1",
+                "postDate": "12/12/22",
+                "sellerName": "Abul kalam",
+                "verified": true,
+                "description": "Made from Kiln-dried imported Beech wood, veneered engineered wood and veneered MDF. High quality environment friendly Italian Ultra Violet (UV) Lacquer in antique finish"
+            },
+            { 
+                "name":"HAKIL Bed Galaxy-118",
+                "img": "https://i.ibb.co/JCgryhW/Bed-1.jpg",
+                "originalPrice": "140",
+                "location":"Dhaka Brance",
+                "resalePrice": "100",
+                "yearsUse": "0.6",
+                "postDate": "1/1/23",
+                "sellerName": "Kabir Bin Samad",
+                "verified": true,
+                "description": "This bed might be an excellent choice if you like floral designs that match other items like wardrobe and bedside table with the same design. Plus, you can also opt for manual storage or hydraulic storage options for this bed to help keep your house decluttered."
+            },
+            { 
+                "name":"HAKIL Bed Obsession-151",
+                "img": "https://i.ibb.co/rdHXBPp/bed-2.png",
+                "originalPrice": "121",
+                "location":"Barishal",
+                "resalePrice": "101",
+                "yearsUse": "1.2",
+                "postDate": "1/12/22",
+                "sellerName": "Deloyer Hossain",
+                "verified": false,
+                "description": "For newly married couples or guests, this bed will be the perfect choice since this bed comes in three different sizes- King, Queen, and Semi-Double. On top of that, our beds with extra storage will allow you to store your necessary items underneath them."
+            }
+        ]
+    },
+    { 
+        "categoryTitle":"Living Room",
+        "category": "living_room",
+        "img":"https://i.ibb.co/ckjJSmN/living.png",
+        "items": [
+            { 
+                "name":"HAKIL Sofa Simsbury-285",
+                "img": "https://i.ibb.co/SctCCyY/sofa-4.jpg",
+                "originalPrice": "100",
+                "location":"Patuakhali",
+                "resalePrice": "299",
+                "yearsUse": "1.2",
+                "postDate": "24/6/22",
+                "sellerName": "Mahfuzur Rahman",
+                "verified": true,
+                "description": "Undoubtedly, HATIL ensures the best Italian lacquer finishing on the market, which is the only reason our products' color lasts longer than non-brand ones."
+            },
+            { 
+                "name":"HAKIL Living Sagittarius-111",
+                "img": "https://i.ibb.co/qNzGPzB/sofa-3.jpg",
+                "originalPrice": "200",
+                "location":"Rajshahi",
+                "resalePrice": "140",
+                "yearsUse": "1.8",
+                "postDate": "10/2/22",
+                "sellerName": "Abdur Rahman",
+                "verified": true,
+                "description": "HAKIL uses well-seasoned Beech wood that is imported from Germany. You may choose any of the fabrics from our fabric combinations. The foam that has been used here is also from HATIL's production, which ensures the best comfort."
+            },
+            { 
+                "name":"HAKIL Center Table Pigeon-167",
+                "img": "https://i.ibb.co/8MKTwhW/living-2.jpg",
+                "originalPrice": "190",
+                "location":"Jhalokathi",
+                "resalePrice": "120",
+                "yearsUse": "2",
+                "postDate": "5/9/22",
+                "sellerName": "Ibrahim Moon",
+                "verified": false,
+                "description": "HATIL uses Imported German Beech wood that is multiple times more durable than regular wood. Plus, the Italian lacquer on the product ensures sleekness and the best finishing in the furniture market of Bangladesh."
+            },
+            { 
+                "name":"HAKIL Sofa Nebraska-119",
+                "img": "https://i.ibb.co/MkpvNWr/Living-1.jpg",
+                "originalPrice": "170",
+                "location":"Barishal",
+                "resalePrice": "120",
+                "yearsUse": "1",
+                "postDate": "5/1/23",
+                "sellerName": "Hafizur Rahman",
+                "verified": true,
+                "description": "This single sofa was designed to provide your chosen space with a professional, posh, yet comfortable outlook. The sofas of the Nebraska-119 design are made with quality upholstery, meaning you will not have to spend tonnes of money restitching after prolonged usage. The sturdy framework of the Nebraska-119 makes it durable and long-lasting,"
+            }
+        ]
+    },
+    { 
+        "categoryTitle":"Dining Room",
+        "category": "dining_room",
+        "img":"https://i.ibb.co/48m0Yky/dining.png",
+        "items": [
+            { 
+                "name":"HAKIL Dining Fairmont-117 and Danville-104",
+                "img": "https://i.ibb.co/xfk4xFX/Dining-2.jpg",
+                "originalPrice": "230",
+                "location":"Dhaka",
+                "resalePrice": "110",
+                "yearsUse": "1.5",
+                "postDate": "15/12/22",
+                "sellerName": "Abu Jafor",
+                "verified": true,
+                "description": "This set is made of kiln-dried beechwood and veneered engineered wood. Its beautiful antique finish is done with an Italian UV and PU lacquer finish. This set of furniture is very sturdy and durable, it can provide the best service for many years."
+            },
+            { 
+                "name":"HAKIL Dining Platter-156 and Lime-128",
+                "img": "https://i.ibb.co/zH5zf9d/Dining-Set.jpg",
+                "originalPrice": "240",
+                "location":"Barishal",
+                "resalePrice": "200",
+                "yearsUse": "1",
+                "postDate": "5/1/23",
+                "sellerName": "Wahidur Rahman",
+                "verified": true,
+                "description": "The chairs and the table is made of kiln-dried beechwood and veneered engineered wood. The glass top is 10mm thick, imported, and of premium quality. The chairs have fabric upholstery, and their cushioning is soft and comfortable. They are ergonomically designed to support your back and prevent back pain."
+            }
+        ]
+    },
+    { 
+        "categoryTitle":"Kitchen Room",
+        "category": "kitchen_room",
+        "img":"https://i.ibb.co/5FvxHGr/kitchen.png",
+        "items": [
+            { 
+                "name":"All Kitchen Awesome Setup",
+                "img": "https://i.ibb.co/BGLdBmB/KITCHEN-02.jpg",
+                "originalPrice": "1000",
+                "location":"Dhaka",
+                "resalePrice": "880",
+                "yearsUse": "1",
+                "postDate": "1/12/22",
+                "sellerName": "Abul kalam Azad",
+                "verified": true,
+                "description": "Here is a modular kitchen furniture design with natural lighting and air. The furniture in this kitchen, including the cabinets, are yellow that compliment the white walls of the space. There are cabinets to store essentials and shelves on the top to keep cups and jars that are used regularly, and it also has an inbuilt oven and stove"
+            },
+            { 
+                "name":"Kitchen Full setup for beautiful",
+                "img": "https://i.ibb.co/jZyhPLs/kitchen-2.jpg",
+                "originalPrice": "900",
+                "location":"Barishal",
+                "resalePrice": "680",
+                "yearsUse": "0.7",
+                "postDate": "5/12/22",
+                "sellerName": "Abul kalam",
+                "verified": false,
+                "description": "This is one of the trendy and latest kitchen furniture design with a stylish finish. The wall at the back of the exhaust hood is bright orange in contrast with the grey walls on the other sides. There are cabinets at the bottom area of the kitchen with a sleek finish with an inbuilt oven and stove"
+            }
+        ]
+    }
+
+]
