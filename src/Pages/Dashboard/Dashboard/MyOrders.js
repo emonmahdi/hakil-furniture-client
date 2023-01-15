@@ -11,6 +11,7 @@ const MyOrders = () => {
     queryKey: ["booking", user?.email],
     queryFn: async () => {
       const res = await fetch(url, {
+        method: 'GET',
         headers: {
           authorization: `Bearer ${localStorage.getItem("accessToken")}`,
         },

@@ -16,7 +16,10 @@ const AllUsers = () => {
     const handleMakeAdmin = (id) => {
         const url = `http://localhost:5000/users/admin/${id}`;
         fetch(url,{
-            method: "PUT"
+            method: "PUT",
+            headers: {
+                authorization: `Bearer ${localStorage.getItem("accessToken")}`,
+            },
         }).then(res => res.json())
         .then(data => {
             if(data.modifiedCount > 0){

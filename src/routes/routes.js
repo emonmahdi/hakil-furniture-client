@@ -12,6 +12,7 @@ import Dashboard from "../Pages/Dashboard/Dashboard/Dashboard";
 import MyOrders from "../Pages/Dashboard/Dashboard/MyOrders";
 import MyProduct from "../Pages/Dashboard/Dashboard/MyProduct";
 import SingleCategory from "../Pages/ProductCategory/SingleCategory";
+import AdminRoute from "./AdminRoute";
 import PrivateRoute from "./PrivateRoute";
 
 
@@ -52,7 +53,7 @@ const routes = createBrowserRouter([
             }, 
             {
                 path:'/dashboard/allusers',
-                element: <AllUsers /> 
+                element: <AdminRoute><AllUsers /> </AdminRoute> 
             }, 
             {
                 path:'/dashboard/myproduct',

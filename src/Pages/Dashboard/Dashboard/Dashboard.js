@@ -1,8 +1,15 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Link, Outlet } from "react-router-dom";
+import { AuthContext } from "../../../context/AuthProvider";
+import useAdmin from "../../../hooks/useAdmin";
 import MyOrders from "./MyOrders";
 
 const Dashboard = () => {
+  const {user} = useContext(AuthContext);
+  console.log(user);
+  const [isAdmin] = useAdmin(user?.email);
+  console.log(isAdmin)
+
   return (
     <div className="drawer drawer-mobile">
       <input id="dashboard-drawer" type="checkbox" className="drawer-toggle" />
@@ -19,9 +26,13 @@ const Dashboard = () => {
           <li>
             <Link to='/dashboard/addproduct'>Add Products</Link> 
           </li>
-          <li> 
-            <Link to='/dashboard/allusers'>All Users</Link> 
-          </li>
+         {
+          isAdmin && <>
+             <li> 
+                <Link to='/dashboard/allusers'>All Users</Link> 
+            </li>
+          </>
+         }
           <li> 
             <Link to='/dashboard/myproduct'>My Products</Link> 
           </li>
